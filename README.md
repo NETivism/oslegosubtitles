@@ -10,5 +10,5 @@ Creativecommons by-sa, read http://creativecommons.org/licenses/by-sa/
 
 Inspire
 -------
-This project greatly inspired by http://g0v.tw 
+Open source mindset greatly inspired by http://g0v.tw 
 
